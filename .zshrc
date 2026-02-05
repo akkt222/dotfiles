@@ -41,6 +41,8 @@ alias gotestall="gotest -v ./internal/..."
 
 alias vi="nvim"
 
+alias c="claude"
+
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=$PATH:/usr/local/go/bin
